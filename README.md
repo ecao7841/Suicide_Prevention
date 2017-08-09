@@ -1,1 +1,1 @@
-# Suicide_Prevention
+# SuicidePrevention
